@@ -4,7 +4,7 @@
 
 本指南涵盖了标准提示的基础知识，提供了如何使用提示与大型语言模型（LLM）进行交互和指导的大致想法。
 
-所有示例都使用`gpt-3.5-turbo`进行测试（使用OpenAI的playground），除非另有规定。它使用默认配置，例如`temperature=0.7`和`top-p=1`。
+所有示例都使用`gpt-3.5-turbo`(译者注：英文本使用的是`text-davinci-003`)进行测试（使用OpenAI的playground），除非另有规定。它使用默认配置，例如`temperature=0.7`和`top-p=1`。
 
 
 主题：
