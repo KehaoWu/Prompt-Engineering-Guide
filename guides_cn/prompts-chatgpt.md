@@ -1,68 +1,28 @@
-
-
 # ChatGPT提示工程
-
-
-
 
 在本节中，我们介绍了 ChatGPT 的最新提示工程技术，包括技巧、应用、限制、论文和其他阅读资料。
 
-
-
-
-**请注意，此部分正在进行大量开发。** (Markdown格式)
-
-
-
+**请注意，此部分尚未完成。** 
 
 话题：
-
-
-- [ChatGPT 简介](#chatgpt-简介)
-
-
+- [ChatGPT简介](#ChatGPT简介)
 - [回顾对话任务](#回顾对话任务)
-
-
-- [与ChatGPT的对话](#与chatgpt的对话)
-
-
-- [Python笔记本](#Python-笔记本)
-
-
-
+- [与ChatGPT的对话](#与ChatGPT的对话)
+- [Python文档](#Python文档)
 
 ---
-
-请使用 Markdown 格式将下面的句子翻译成中文，不要发音：
-
 
 ## ChatGPT简介
 
-
-
-
 ChatGPT是一个由OpenAI训练的新模型，可以进行对话互动。该模型经过训练，遵循提示指令，以在对话上下文中提供适当的响应。ChatGPT可以帮助回答问题、建议食谱、以特定风格编写歌词、生成代码等等。
-
-
-
 
 `ChatGPT` 是使用人类反馈强化学习训练的（`RLHF`）模型。虽然这个模型比以前的 `GPT` 迭代更加强大（而且还训练了以减少有害和不真实的输出为目标），但它仍然存在一些限制。让我们通过具体的例子来介绍一些能力和限制。
 
-
-
-
 您可以在此处使用ChatGPT的研究预览[链接](https://chat.openai.com)，但对于下面的例子，我们将在OpenAI Playground上使用`Chat`模式。
-
-
-
 
 ---
 
-（这是一个markdown格式的分割线）
-
-
-## 审查对话任务
+## 回顾对话任务
 
 
 
@@ -126,7 +86,7 @@ AI:
 
 
 
----表示一级标题。
+---
 
 
 ## 与ChatGPT的对话
@@ -375,7 +335,7 @@ Sorry, as an AI language model, I am unable to understand your request. Could yo
 无需发音，请将下面的句子以Markdown格式翻译为中文：
 
 
-## Python 笔记本
+## Python文档
 
 
 

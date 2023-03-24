@@ -8,29 +8,12 @@
 
 
 
-- [引导工程介绍](/guides/prompts-intro.md)
+- [提示工程 - 介绍](/guides_cn/prompts-intro.md)
+- [提示工程 - 基本提示](/guides_cn/prompts-basic-usage.md)
+- [提示工程 - 高级提示](/guides_cn/prompts-advanced-usage.md)
+- [提示工程 - 应用](/guides_cn/prompts-applications.md)
+- [提示工程 - ChatGPT](/guides_cn/prompts-chatgpt.md)
+- [提示工程 - 对抗性提示](/guides_cn/prompts-adversarial.md)
+- [提示工程 - 可靠性](/guides_cn/prompts-reliability.md)
+- [提示工程 - 其他话题](/guides_cn/prompts-miscellaneous.md)
 
-
-- [Prompt Engineering - 基本提示](/guides/prompts-basic-usage.md)
-
-
-- [即时工程 - 高级提示](/guides/prompts-advanced-usage.md)
-
-
-- [Prompt Engineering - Applications](/guides/prompts-applications.md) 
-
-- [提示工程 - 应用程序](/guides/prompts-applications.md)
-
-
-- [Prompt 工程 - ChatGPT](/guides/prompts-chatgpt.md)
-
-
-- [激励工程-对抗性提示](/guides/prompts-adversarial.md)
-
-
-- [提示工程 - 可靠性]（/guides/prompts-reliability.md）
-
-
-- [Prompt Engineering - Miscellaneous Topics](/guides/prompts-miscellaneous.md)
-
-（Markdown 格式）
